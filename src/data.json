@@ -1,10 +1,12 @@
  [
   {
-    "title": "The Awakening",
-    "author": "Kate Chopin"
+    "id": "gummybears",
+    "name": "Haribo Gummy Bears",
+    "price": 1.50
   },
   {
-    "title": "City of Glass",
-    "author": "Paul Auster"
+    "id": "sourpatch",
+    "name": "Sour Patch Kids",
+    "price": 2.50
   }
 ]

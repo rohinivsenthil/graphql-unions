@@ -1,8 +1,8 @@
-const books = require('./data.json');
+const candies = require('./data.json');
 
 const resolvers = {
   Query: {
-    books: () => books,
+    candies: (_, args) => candies.find((candy) => candy.id === args.id),
   },
 };
 
