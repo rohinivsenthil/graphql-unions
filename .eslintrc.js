@@ -12,5 +12,6 @@ module.exports = {
   },
   rules: {
     'no-console': 'off',
+    'no-underscore-dangle': 'off',
   },
 };
